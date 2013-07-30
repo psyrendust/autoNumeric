@@ -32,6 +32,10 @@
   },
   "main": "autoNumeric.js",
   "ignore": [
-    "**/.*"
+    "**/.*",
+    "autoNumeric.jquery.json",
+    "*.md",
+    "index.html",
+    "license.txt"
   ]
 }
